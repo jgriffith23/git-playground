@@ -20,6 +20,6 @@ After all, I need practice with merge conflicts! O.o
 
 ## Git Tips
 
-*[One of my favorite Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
-*[Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
-*[Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
+* [One of my favorite Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+* [Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
