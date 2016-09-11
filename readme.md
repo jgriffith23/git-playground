@@ -14,7 +14,7 @@ So I figured hell, I need to make a thing I don't care too much about, add featu
 
 After all, I need practice with merge conflicts! O.o
 
-&#35;ourincrediblegitjourney 
+Let us begin **#ourincrediblegitjourney**.
 
 (Or something equally corny. But for serious, if you use this silly hashtag, link to your post in your next pull request or something.)
 
