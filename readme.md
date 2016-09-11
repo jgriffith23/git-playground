@@ -4,7 +4,7 @@ Why, hello there!
 
 Welcome to this weird little project. There's not much here (understatement of the century--this place looks awful!), but I'm hoping you'll be one of many people to change that.
 
-See, a lot of stuff about being a developer is hard to grok at first. But you know what's really hard? Like, so hard that even if you've built an entire amazing, working, badass application, you still might have trouble with it at first? 
+See, a lot of stuff about being a developer is hard to grok at first. But you know what's really hard? Like, so hard that even if you've built an entire amazing, working, badass application, you still might have trouble? 
 
 **GIT >:-/**
 
