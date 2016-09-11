@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Git Playground
+           {% block subtitle %} SUBTITLE HERE {% endblock %}
+    </title>
+
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-default">
+        {% if "user_id" in session %}
+        <div class="container-fluid">
+            <div class="row">
+                <span class="col-xs-12" id="user-greet">
+                    Hi, {{ session["username"] }}!
+                </span>
+            </div>
+        </div>
+        {% endif %}
+
+    <div class="container">
+        {% if get_flashed_messages() %}
+            <div class="alert alert-info" role="alert">
+              <!-- Show flashed messages -->
+                {% with messages = get_flashed_messages() %}
+                    {% for message in messages %}
+                        <div><span class="glyphicon glyphicon-flash"></span>{{ message }}</div>
+                    {% endfor %}
+                {% endwith %}
+            </div>
+        {% endif %}
+    </div>
+
+    <div class="container-fluid" id="body-div">
+        {% block body %}CONTENT GOES HERE{% endblock %}
+    </div>
+
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
