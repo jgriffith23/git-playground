@@ -18,8 +18,14 @@ Let us begin **#ourincrediblegitjourney**.
 
 (Or something equally corny. But for serious, if you use this silly hashtag, link to your post in your next pull request or something.)
 
-## Git Tips
+## General Git Tips
+
+Add your own if you've got 'em!
 
 * [One of my favorite Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
-* [Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+* When you fork, be sure to clone *your* repo to your machine. See Step 2 [here]().
+* [Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) (My repo would be your upstream.)
 * [Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
+* When you fork, clone a repo, if you don't specify a directory
+* A pull request != the `git pull` command! You'll have to go to the GitHub website to make a pull request for me to merge your changes.
+* When you fork, create a new branch and push to that, rather than pushing to master. 
