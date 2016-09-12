@@ -28,3 +28,4 @@ Add your own if you've got 'em!
 * [Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
 * A pull request != the `git pull` command! You'll have to go to the GitHub website to make a pull request for me to merge your changes.
 * When you fork, create a new branch and push to that, rather than pushing to master. 
+* [Oh Shit Git](http://ohshitgit.com/) A collection of "oh shit" moments that happen to all of us and the magic git commands to fix them!
