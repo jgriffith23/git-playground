@@ -33,13 +33,11 @@ link to your post in your next pull request or something.)
 
 Add your own if you've got 'em!
 
-* [One of my favorite Git cheat sheets]
-  (https://education.github.com/git-cheat-sheet-education.pdf)
+* [One of my favorite Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
 
 * When you fork, be sure to clone *your* repo to your machine.
 
-* [Configuring a Remote for a Fork]
-  (https://help.github.com/articles/configuring-a-remote-for-a-fork/) 
+* [Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) 
   (My repo would be your upstream.)
 
 * [Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
@@ -50,8 +48,7 @@ Add your own if you've got 'em!
 * When you fork, create a new branch and push to that, rather than pushing to 
   master. 
 
-* If you need to overwrite an author in your repo, try [this script]
-  (https://help.github.com/articles/changing-author-info/).
+* If you need to overwrite an author in your repo, try [this script](https://help.github.com/articles/changing-author-info/).
 
-* [Oh Shit Git](http://ohshitgit.com/) A collection of "oh shit" moments that 
+* [Oh Shit Git](http://ohshitgit.com/): A collection of "oh shit" moments that 
   happen to all of us and the git commands to fix them!
