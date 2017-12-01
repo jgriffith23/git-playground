@@ -36,7 +36,7 @@ Add your own if you've got 'em!
 * [One of my favorite Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
 
 * When you fork, be sure to clone *your* repo to your machine. See Step 2
-  [here](https://help.github.com/articles/fork-a-repo/)
+  [here](https://help.github.com/articles/fork-a-repo/).
 
 * [Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) 
   (My repo would be your upstream.)
